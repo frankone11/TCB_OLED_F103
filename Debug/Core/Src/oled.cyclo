@@ -1,0 +1,12 @@
+../Core/Src/oled.c:19:6:Oled_Comando	1
+../Core/Src/oled.c:26:6:Oled_Comandos	3
+../Core/Src/oled.c:36:6:Oled_Dato	1
+../Core/Src/oled.c:43:6:Oled_Inicializa	3
+../Core/Src/oled.c:116:6:Oled_Dibuja	3
+../Core/Src/oled.c:137:6:Oled_DibujaTam	2
+../Core/Src/oled.c:157:6:Oled_DibujaEjemplo	5
+../Core/Src/oled.c:188:6:Oled_LimpiaDisplay	1
+../Core/Src/oled.c:194:6:Oled_ColocaCaracter	3
+../Core/Src/oled.c:209:6:Oled_EnviaCadenaXY	3
+../Core/Src/oled.c:222:6:Oled_MuestraCadenaXY	3
+../Core/Src/oled.c:235:6:Oled_MuestraPantalla	1
